@@ -1,10 +1,13 @@
 {
 	"applinks": {
 		"apps": [],
-		"details": [
+		"details": [{
+				"appID": "MMVTCXSS58.com.com2us.hivesdk.normal.freefull.apple.global.ios.universal",
+				"paths": ["*", /hivesdk/normal/"]
+			},
 			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
-				"paths": [ "*"]
+				"appID": "MMVTCXSS58.com.com2us.hivesdk.unity.freefull.apple.global.ios.universal",
+				"paths": ["/hivesdk/unity/"]
 			}
 		]
 	}
