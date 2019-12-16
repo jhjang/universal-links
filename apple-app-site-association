@@ -3,11 +3,11 @@
 		"apps": [],
 		"details": [{
 				"appID": "MMVTCXSS58.com.com2us.hivesdk.normal.freefull.apple.global.ios.universal",
-				"paths": ["/hivesdk/normal/"]
+				"paths": ["/hivesdk/normal/*"]
 			},
 			{
 				"appID": "MMVTCXSS58.com.com2us.hivesdk.unity.freefull.apple.global.ios.universal",
-				"paths": ["/hivesdk/unity/"]
+				"paths": ["/hivesdk/unity/*"]
 			}
 		]
 	}
